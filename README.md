@@ -10,7 +10,7 @@ This patch is based on and includes the original Aeon Genesis translation, the O
     - Mystic -> Yoma
     - Bird -> Flight
     - Wicked -> Jaki
-- [x] Fixed a typo that caused the Deity race to show up as Fiend in menus
+- [x] Fixed an old typo that caused the Deity race to show up as Fiend in menus
 - [ ] Correct typos and script errors
 - [ ] Touch up original translation
 - [ ] Fix sword fusion results screen
