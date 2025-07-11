@@ -17,7 +17,8 @@ This patch is based on and includes the original Aeon Genesis translation, the O
 - [ ] Fix sword fusion results screen
 - [ ] Fix any other issues I come across
 - [ ] Possibly further abbreviate equipment names so what sex they can be equipped to can be seen
-- [ ] Update demon names to their official localisations
+- [ ] Update demon names to their official localisations]
+- [ ] Fix buff overflow glitch
 
 ❌ Unfortunately I can't forsee a way to fix demon names extending outside the menu without completely rewriting the text engine, which I ain't doing, or abbreviating the names until they're unrecogniseable.
 
